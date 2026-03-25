@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="rai-ram-optimizer-aadi", # Agar error aaye toh yahan naam thoda badal dena
+    name="rai-ram-Kali-aadi", 
     version="1.0.0",
     author="Aditya Rai",
     author_email="adityarai0133@gmail.com", 
