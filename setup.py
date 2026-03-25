@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="rai-ram-Kali-aadi", 
-    version="1.0.0",
+    name="kali", 
+    version="1.0.2",
     author="Aditya Rai",
     author_email="adityarai0133@gmail.com", 
     description="A lightweight RAM optimizer for legacy systems",
