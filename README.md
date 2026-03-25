@@ -7,4 +7,4 @@ Rai-Ram is a zero-footprint memory management tool designed for legacy x86 hardw
 
 ## Installation
 ```bash
-pip install rai-ram-kali-aadi
+pip install kali
